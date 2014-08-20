@@ -23,8 +23,36 @@
             "z": 0,
             "scale": 1,
             "rotate-x": 0,
-            "rotate-y": 0,
-            "rotate-z": 90
+            "rotate-y": 60,
+            "rotate-z": 60
+        }
+    },
+    {
+        "uri": "outline-2.html",
+        "id": "outline-2",
+        "class": "step",
+        "data": {
+            "x": 3000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 120,
+            "rotate-z": 120
+        }
+    },
+    {
+        "uri": "outline-3.html",
+        "id": "outline-3",
+        "class": "step",
+        "data": {
+            "x": 3000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 180,
+            "rotate-z": 180
         }
     },
     {
@@ -75,6 +103,118 @@
         "class": "step",
         "data": {
             "x": 15000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "terminology.html",
+        "id": "terminology",
+        "class": "step",
+        "data": {
+            "x": 24000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "distributed-git-systems.html",
+        "id": "distributed-git-systems",
+        "class": "step",
+        "data": {
+            "x": 27000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "git-basics.html",
+        "id": "git-basics",
+        "class": "step",
+        "data": {
+            "x": 48000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "git-init.html",
+        "id": "git-init",
+        "class": "step",
+        "data": {
+            "x": 30000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "git-clone.html",
+        "id": "git-clone",
+        "class": "step",
+        "data": {
+            "x": 33000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "git-add.html",
+        "id": "git-add",
+        "class": "step",
+        "data": {
+            "x": 36000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "git-commit.html",
+        "id": "git-commit",
+        "class": "step",
+        "data": {
+            "x": 42000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "git-flow-basics.html",
+        "id": "git-flow-basics",
+        "class": "step",
+        "data": {
+            "x": 45000,
             "y": 0,
             "z": 0,
             "scale": 1,
