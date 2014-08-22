@@ -19,6 +19,19 @@
 }
 
 .box-padding {
-  padding: 2em;
+  padding: 0.5em 2em;
   border-radius: 0.2em;
+}
+
+.small-text {
+  font-size: 0.8em;
+}
+
+ul {
+  list-style-type: circle;
+}
+
+p {
+  margin: 0.5em 0em;
+  line-height: 1.2em;
 }

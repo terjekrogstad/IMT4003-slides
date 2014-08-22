@@ -19,12 +19,12 @@
         "class": "step",
         "data": {
             "x": 3000,
-            "y": 0,
+            "y": 500,
             "z": 0,
             "scale": 1,
             "rotate-x": 0,
             "rotate-y": 60,
-            "rotate-z": 60
+            "rotate-z": 0
         }
     },
     {
@@ -33,12 +33,12 @@
         "class": "step",
         "data": {
             "x": 3000,
-            "y": 0,
+            "y": 1000,
             "z": 0,
             "scale": 1,
             "rotate-x": 0,
             "rotate-y": 120,
-            "rotate-z": 120
+            "rotate-z": 0
         }
     },
     {
@@ -47,12 +47,26 @@
         "class": "step",
         "data": {
             "x": 3000,
-            "y": 0,
+            "y": 1500,
             "z": 0,
             "scale": 1,
             "rotate-x": 0,
             "rotate-y": 180,
-            "rotate-z": 180
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "what-is-version-control.html",
+        "id": "what-is-version-control",
+        "class": "step",
+        "data": {
+            "x": 48000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
         }
     },
     {
@@ -84,11 +98,11 @@
         }
     },
     {
-        "uri": "subversion-and-cvs.html",
-        "id": "subversion-and-cvs",
+        "uri": "distributed-vcs.html",
+        "id": "distributed-vcs",
         "class": "step",
         "data": {
-            "x": 12000,
+            "x": 51000,
             "y": 0,
             "z": 0,
             "scale": 1,
@@ -117,6 +131,20 @@
         "class": "step",
         "data": {
             "x": 24000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "terminology-2.html",
+        "id": "terminology-2",
+        "class": "step",
+        "data": {
+            "x": 48000,
             "y": 0,
             "z": 0,
             "scale": 1,
@@ -215,6 +243,49 @@
         "class": "step",
         "data": {
             "x": 45000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "git-workflow.html",
+        "id": "git-workflow",
+        "class": "step",
+        "data": {
+            "x": 51000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "git-workflow-2.html",
+        "id": "git-workflow-2",
+        "class": "step",
+        "data": {
+            "x": 45000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+
+    {
+        "uri": "resources.html",
+        "id": "resources",
+        "class": "step",
+        "data": {
+            "x": 48000,
             "y": 0,
             "z": 0,
             "scale": 1,
