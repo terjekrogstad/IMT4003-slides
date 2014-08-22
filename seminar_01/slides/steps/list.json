@@ -37,7 +37,7 @@
             "z": 0,
             "scale": 1,
             "rotate-x": 0,
-            "rotate-y": 120,
+            "rotate-y": 60,
             "rotate-z": 0
         }
     },
@@ -51,7 +51,7 @@
             "z": 0,
             "scale": 1,
             "rotate-x": 0,
-            "rotate-y": 180,
+            "rotate-y": 60,
             "rotate-z": 0
         }
     },
@@ -60,7 +60,7 @@
         "id": "what-is-version-control",
         "class": "step",
         "data": {
-            "x": 48000,
+            "x": 500,
             "y": 0,
             "z": 0,
             "scale": 1,
@@ -73,22 +73,21 @@
         "uri": "what-is-dvcs.html",
         "id": "what-is-dvcs",
         "class": "step",
-        "data": {
-            "x": 6000,
-            "y": 0,
-            "z": 0,
-            "scale": 1,
-            "rotate-x": 0,
-            "rotate-y": 0,
-            "rotate-z": 90
-        }
+      "data": {
+          "x": 1000,
+          "y": 0,
+          "z": 0,
+          "scale": 1,
+          "rotate-x": 0,
+          "rotate-y": 0,
+          "rotate-z": 90
+      }
     },
     {
         "uri": "predecessors-to-dvcs.html",
         "id": "predecessors-to-dvcs",
-        "class": "step",
         "data": {
-            "x": 9000,
+            "x": 1500,
             "y": 0,
             "z": 0,
             "scale": 1,
@@ -102,7 +101,7 @@
         "id": "distributed-vcs",
         "class": "step",
         "data": {
-            "x": 51000,
+            "x": 2000,
             "y": 0,
             "z": 0,
             "scale": 1,
@@ -116,13 +115,13 @@
         "id": "git",
         "class": "step",
         "data": {
-            "x": 15000,
-            "y": 0,
+            "x": 2000,
+            "y": 500,
             "z": 0,
             "scale": 1,
-            "rotate-x": 0,
+            "rotate-x": 90,
             "rotate-y": 0,
-            "rotate-z": 90
+            "rotate-z": 0
         }
     },
     {
@@ -130,13 +129,13 @@
         "id": "terminology",
         "class": "step",
         "data": {
-            "x": 24000,
-            "y": 0,
+            "x": 2000,
+            "y": 1000,
             "z": 0,
             "scale": 1,
-            "rotate-x": 0,
+            "rotate-x": 90,
             "rotate-y": 0,
-            "rotate-z": 90
+            "rotate-z": 0
         }
     },
     {
@@ -144,13 +143,13 @@
         "id": "terminology-2",
         "class": "step",
         "data": {
-            "x": 48000,
-            "y": 0,
+            "x": 2000,
+            "y": 1500,
             "z": 0,
             "scale": 1,
-            "rotate-x": 0,
+            "rotate-x": 90,
             "rotate-y": 0,
-            "rotate-z": 90
+            "rotate-z": 0
         }
     },
     {
@@ -158,13 +157,13 @@
         "id": "distributed-git-systems",
         "class": "step",
         "data": {
-            "x": 27000,
-            "y": 0,
+            "x": 2000,
+            "y": 2000,
             "z": 0,
             "scale": 1,
-            "rotate-x": 0,
+            "rotate-x": 90,
             "rotate-y": 0,
-            "rotate-z": 90
+            "rotate-z": 0
         }
     },
     {
@@ -172,13 +171,13 @@
         "id": "git-basics",
         "class": "step",
         "data": {
-            "x": 48000,
-            "y": 0,
-            "z": 0,
+            "x": 2000,
+            "y": 2000,
+            "z": 500,
             "scale": 1,
-            "rotate-x": 0,
+            "rotate-x": 90,
             "rotate-y": 0,
-            "rotate-z": 90
+            "rotate-z": 60
         }
     },
     {
@@ -186,13 +185,13 @@
         "id": "git-init",
         "class": "step",
         "data": {
-            "x": 30000,
-            "y": 0,
-            "z": 0,
+            "x": 2000,
+            "y": 2000,
+            "z": 1000,
             "scale": 1,
-            "rotate-x": 0,
+            "rotate-x": 90,
             "rotate-y": 0,
-            "rotate-z": 90
+            "rotate-z": 60
         }
     },
     {
@@ -200,13 +199,13 @@
         "id": "git-clone",
         "class": "step",
         "data": {
-            "x": 33000,
-            "y": 0,
-            "z": 0,
+            "x": 2000,
+            "y": 2000,
+            "z": 1500,
             "scale": 1,
-            "rotate-x": 0,
+            "rotate-x": 90,
             "rotate-y": 0,
-            "rotate-z": 90
+            "rotate-z": 60
         }
     },
     {
@@ -214,13 +213,13 @@
         "id": "git-add",
         "class": "step",
         "data": {
-            "x": 36000,
-            "y": 0,
-            "z": 0,
+            "x": 2000,
+            "y": 2000,
+            "z": 2000,
             "scale": 1,
-            "rotate-x": 0,
+            "rotate-x": 90,
             "rotate-y": 0,
-            "rotate-z": 90
+            "rotate-z": 60
         }
     },
     {
@@ -228,13 +227,13 @@
         "id": "git-commit",
         "class": "step",
         "data": {
-            "x": 42000,
-            "y": 0,
-            "z": 0,
+            "x": 2000,
+            "y": 2000,
+            "z": 2500,
             "scale": 1,
-            "rotate-x": 0,
+            "rotate-x": 90,
             "rotate-y": 0,
-            "rotate-z": 90
+            "rotate-z": 60
         }
     },
     {
@@ -242,11 +241,11 @@
         "id": "git-flow-basics",
         "class": "step",
         "data": {
-            "x": 45000,
-            "y": 0,
-            "z": 0,
+            "x": 3000,
+            "y": 500,
+            "z": 500,
             "scale": 1,
-            "rotate-x": 0,
+            "rotate-x": 90,
             "rotate-y": 0,
             "rotate-z": 90
         }
@@ -256,11 +255,11 @@
         "id": "git-workflow",
         "class": "step",
         "data": {
-            "x": 51000,
-            "y": 0,
-            "z": 0,
+            "x": 2500,
+            "y": 1000,
+            "z": 500,
             "scale": 1,
-            "rotate-x": 0,
+            "rotate-x": 90,
             "rotate-y": 0,
             "rotate-z": 90
         }
@@ -270,11 +269,11 @@
         "id": "git-workflow-2",
         "class": "step",
         "data": {
-            "x": 45000,
-            "y": 0,
-            "z": 0,
+            "x": 2000,
+            "y": 1500,
+            "z": 500,
             "scale": 1,
-            "rotate-x": 0,
+            "rotate-x": 90,
             "rotate-y": 0,
             "rotate-z": 90
         }
@@ -285,11 +284,11 @@
         "id": "resources",
         "class": "step",
         "data": {
-            "x": 48000,
-            "y": 0,
-            "z": 0,
+            "x": 1500,
+            "y": 2000,
+            "z": 500,
             "scale": 1,
-            "rotate-x": 0,
+            "rotate-x": 90,
             "rotate-y": 0,
             "rotate-z": 90
         }

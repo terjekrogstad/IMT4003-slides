@@ -35,3 +35,7 @@ p {
   margin: 0.5em 0em;
   line-height: 1.2em;
 }
+
+.step:not(.active) {
+  opacity: 0.1;
+}
