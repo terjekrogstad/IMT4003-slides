@@ -392,20 +392,6 @@
         }
     },
     {
-        "uri": "use-of-measurements.html",
-        "id": "use-of-measurements",
-        "class": "step",
-        "data": {
-            "x": 96000,
-            "y": 0,
-            "z": 0,
-            "scale": 1,
-            "rotate-x": 0,
-            "rotate-y": 0,
-            "rotate-z": 90
-        }
-    },
-    {
         "uri": "internal-and-external-software-attributes.html",
         "id": "internal-and-external-software-attributes",
         "class": "step",
@@ -439,6 +425,20 @@
         "class": "step",
         "data": {
             "x": 105000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "product-metrics-examples-2.html",
+        "id": "product-metrics-examples-2",
+        "class": "step",
+        "data": {
+            "x": 106500,
             "y": 0,
             "z": 0,
             "scale": 1,
