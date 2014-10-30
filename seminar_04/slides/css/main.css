@@ -1,15 +1,75 @@
 /**
  * Every step element has one of three classes: `future`, `present` and `past`.
  * Only one current step has the `present` class.
- * When a step is shown (selected) its element gets the class of "active" and 
+ * When a step is shown (selected) its element gets the class of "active" and
  * the body element gets the class `impress-on-ID` where ID is the step's id.
  */
+
+ body {
+     background-image: url(http://annalinnehan.com/wp-content/uploads/2013/06/simple-blue-opera-background-light-49001.jpg);
+     background-repeat: none;
+     background-stretch: 100%;
+ }
+
+ body .step {
+     font-size: 1.2em;
+ }
 
 .notes {
     display:none;
 }
 
+.step#title h1 {
+    font-size: 120px;
+}
+
 .step h2 {
-    font-size: 78px;
+    font-size: 70px;
     font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.bg-white {
+  background-color: #fff;
+}
+
+.box-padding {
+  padding: 0.5em 2em;
+  border-radius: 0.2em;
+}
+
+.small-text {
+  font-size: 0.8em;
+}
+
+.step pre {
+    font-size: 0.6em;
+    line-heigh: 0.7em;
+}
+
+ul {
+  list-style-type: circle;
+}
+
+p {
+  margin: 0.5em 0em;
+  line-height: 1.2em;
+}
+
+h1, h2, h3 {
+  line-height: 1.2em;
+}
+
+.step:not(.active) {
+  opacity: 0.1;
+}
+
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+table td {
+  padding: 0.2em;
 }

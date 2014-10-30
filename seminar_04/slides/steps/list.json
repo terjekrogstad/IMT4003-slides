@@ -56,6 +56,34 @@
         }
     },
     {
+        "uri": "why-documentaion.html",
+        "id": "why-documentaion",
+        "class": "step",
+        "data": {
+            "x": 153000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "why-documetation-ii.html",
+        "id": "why-documetation-ii",
+        "class": "step",
+        "data": {
+            "x": 159000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
         "uri": "documentation-requirements.html",
         "id": "documentation-requirements",
         "class": "step",
@@ -89,20 +117,6 @@
         "class": "step",
         "data": {
             "x": 18000,
-            "y": 0,
-            "z": 0,
-            "scale": 1,
-            "rotate-x": 0,
-            "rotate-y": 0,
-            "rotate-z": 90
-        }
-    },
-    {
-        "uri": "product-documentation.html",
-        "id": "product-documentation",
-        "class": "step",
-        "data": {
-            "x": 21000,
             "y": 0,
             "z": 0,
             "scale": 1,
@@ -154,11 +168,11 @@
         }
     },
     {
-        "uri": "user-documenation.html",
-        "id": "user-documenation",
+        "uri": "product-documentation.html",
+        "id": "product-documentation",
         "class": "step",
         "data": {
-            "x": 33000,
+            "x": 21000,
             "y": 0,
             "z": 0,
             "scale": 1,
@@ -182,11 +196,305 @@
         }
     },
     {
+        "uri": "system-documentation-documents.html",
+        "id": "system-documentation-documents",
+        "class": "step",
+        "data": {
+            "x": 48000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "user-documentation.html",
+        "id": "user-documentation",
+        "class": "step",
+        "data": {
+            "x": 45000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "modeling.html",
+        "id": "modeling",
+        "class": "step",
+        "data": {
+            "x": 57000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "system-architecture-modeling.html",
+        "id": "system-architecture-modeling",
+        "class": "step",
+        "data": {
+            "x": 63000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "component-modeling.html",
+        "id": "component-modeling",
+        "class": "step",
+        "data": {
+            "x": 69000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "data-layer-modeling.html",
+        "id": "data-layer-modeling",
+        "class": "step",
+        "data": {
+            "x": 75000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "code-annontation.html",
+        "id": "code-annontation",
+        "class": "step",
+        "data": {
+            "x": 81000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
         "uri": "automated-techniques.html",
         "id": "automated-techniques",
         "class": "step",
         "data": {
             "x": 39000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "reverse-engineering.html",
+        "id": "reverse-engineering",
+        "class": "step",
+        "data": {
+            "x": 87000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "documentation-generation.html",
+        "id": "documentation-generation",
+        "class": "step",
+        "data": {
+            "x": 177000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "documentation-in-agile.html",
+        "id": "documentation-in-agile",
+        "class": "step",
+        "data": {
+            "x": 93000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "the-agile-manifesto.html",
+        "id": "the-agile-manifesto",
+        "class": "step",
+        "data": {
+            "x": 99000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "how-much-and-when.html",
+        "id": "how-much-and-when",
+        "class": "step",
+        "data": {
+            "x": 105000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "jit-just-in-time.html",
+        "id": "jit-just-in-time",
+        "class": "step",
+        "data": {
+            "x": 111000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "document-late.html",
+        "id": "document-late",
+        "class": "step",
+        "data": {
+            "x": 117000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "document-late-ii.html",
+        "id": "document-late-ii",
+        "class": "step",
+        "data": {
+            "x": 123000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "simplification.html",
+        "id": "simplification",
+        "class": "step",
+        "data": {
+            "x": 129000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "what-to-document.html",
+        "id": "what-to-document",
+        "class": "step",
+        "data": {
+            "x": 135000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "when-to-document.html",
+        "id": "when-to-document",
+        "class": "step",
+        "data": {
+            "x": 141000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "documentation-is-a-requirement.html",
+        "id": "documentation-is-a-requirement",
+        "class": "step",
+        "data": {
+            "x": 147000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "document-audience-in-agile.html",
+        "id": "document-audience-in-agile",
+        "class": "step",
+        "data": {
+            "x": 165000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "references.html",
+        "id": "references",
+        "class": "step",
+        "data": {
+            "x": 171000,
             "y": 0,
             "z": 0,
             "scale": 1,
