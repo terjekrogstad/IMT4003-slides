@@ -1,0 +1,26 @@
+<h2>Code annotation</h2>
+<p>
+    Code metadata with annotations in code documents
+</p>
+<pre>
+/**
+ * Some description of the method...
+ *
+ * @param  url  an absolute URL giving the base location of the image
+ * @param  name the location of the image, relative to the url argument
+ * @return      the image at the specified URL
+ * @see         Image
+ */
+ public Image getImage(URL url, String name) {
+        try {
+            return getImage(new URL(url, name));
+        } catch (MalformedURLException e) {
+            return null;
+        }
+ }
+</pre>
+
+
+<div class="notes">Press the P
+key to access the notes console.
+</div>

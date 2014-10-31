@@ -1,0 +1,506 @@
+[
+    {
+        "uri": "start.html",
+        "id": "title",
+        "class": "step title",
+        "data": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "scale": 4,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "contact.html",
+        "id": "contact",
+        "class": "step",
+        "data": {
+            "x": 3000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "topics.html",
+        "id": "topics",
+        "class": "step",
+        "data": {
+            "x": 6000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "documentation.html",
+        "id": "documentation",
+        "class": "step",
+        "data": {
+            "x": 9000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "why-documentaion.html",
+        "id": "why-documentaion",
+        "class": "step",
+        "data": {
+            "x": 9000,
+            "y": 2000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "why-documetation-ii.html",
+        "id": "why-documetation-ii",
+        "class": "step",
+        "data": {
+            "x": 9000,
+            "y": 4000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "documentation-requirements.html",
+        "id": "documentation-requirements",
+        "class": "step",
+        "data": {
+            "x": 12000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "documentation-types.html",
+        "id": "documentation-types",
+        "class": "step",
+        "data": {
+            "x": 15000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "process-documentation.html",
+        "id": "process-documentation",
+        "class": "step",
+        "data": {
+            "x": 15000,
+            "y": 2000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "process-documentation-categories.html",
+        "id": "process-documentation-categories",
+        "class": "step",
+        "data": {
+            "x": 15000,
+            "y": 4000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "internal-process-documents.html",
+        "id": "internal-process-documents",
+        "class": "step",
+        "data": {
+            "x": 15000,
+            "y": 6000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "external-process-documents.html",
+        "id": "external-process-documents",
+        "class": "step",
+        "data": {
+            "x": 15000,
+            "y": 8000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "product-documentation.html",
+        "id": "product-documentation",
+        "class": "step",
+        "data": {
+            "x": 18000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "system-documentation.html",
+        "id": "system-documentation",
+        "class": "step",
+        "data": {
+            "x": 18000,
+            "y": 2000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "system-documentation-documents.html",
+        "id": "system-documentation-documents",
+        "class": "step",
+        "data": {
+            "x": 18000,
+            "y": 4000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "user-documentation.html",
+        "id": "user-documentation",
+        "class": "step",
+        "data": {
+            "x": 18000,
+            "y": 6000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "modeling.html",
+        "id": "modeling",
+        "class": "step",
+        "data": {
+            "x": 18000,
+            "y": 8000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "system-architecture-modeling.html",
+        "id": "system-architecture-modeling",
+        "class": "step",
+        "data": {
+            "x": 18000,
+            "y": 10000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "component-modeling.html",
+        "id": "component-modeling",
+        "class": "step",
+        "data": {
+            "x": 18000,
+            "y": 12000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "data-layer-modeling.html",
+        "id": "data-layer-modeling",
+        "class": "step",
+        "data": {
+            "x": 18000,
+            "y": 14000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "code-annontation.html",
+        "id": "code-annontation",
+        "class": "step",
+        "data": {
+            "x": 18000,
+            "y": 16000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "automated-techniques.html",
+        "id": "automated-techniques",
+        "class": "step",
+        "data": {
+            "x": 21000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "reverse-engineering.html",
+        "id": "reverse-engineering",
+        "class": "step",
+        "data": {
+            "x": 21000,
+            "y": 2000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "documentation-generation.html",
+        "id": "documentation-generation",
+        "class": "step",
+        "data": {
+            "x": 21000,
+            "y": 4000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "documentation-in-agile.html",
+        "id": "documentation-in-agile",
+        "class": "step",
+        "data": {
+            "x": 24000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "the-agile-manifesto.html",
+        "id": "the-agile-manifesto",
+        "class": "step",
+        "data": {
+            "x": 24000,
+            "y": 2000,
+            "z": 2000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "how-much-and-when.html",
+        "id": "how-much-and-when",
+        "class": "step",
+        "data": {
+            "x": 24000,
+            "y": 2000,
+            "z": 4000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "jit-just-in-time.html",
+        "id": "jit-just-in-time",
+        "class": "step",
+        "data": {
+            "x": 24000,
+            "y": 2000,
+            "z": 6000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "document-late.html",
+        "id": "document-late",
+        "class": "step",
+        "data": {
+            "x": 24000,
+            "y": 2000,
+            "z": 8000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "document-late-ii.html",
+        "id": "document-late-ii",
+        "class": "step",
+        "data": {
+            "x": 24000,
+            "y": 2000,
+            "z": 10000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "simplification.html",
+        "id": "simplification",
+        "class": "step",
+        "data": {
+            "x": 24000,
+            "y": 2000,
+            "z": 12000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "what-to-document.html",
+        "id": "what-to-document",
+        "class": "step",
+        "data": {
+            "x": 24000,
+            "y": 2000,
+            "z": 14000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "when-to-document.html",
+        "id": "when-to-document",
+        "class": "step",
+        "data": {
+            "x": 24000,
+            "y": 2000,
+            "z": 16000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "documentation-is-a-requirement.html",
+        "id": "documentation-is-a-requirement",
+        "class": "step",
+        "data": {
+            "x": 24000,
+            "y": 2000,
+            "z": 18000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "document-audience-in-agile.html",
+        "id": "document-audience-in-agile",
+        "class": "step",
+        "data": {
+            "x": 24000,
+            "y": 2000,
+            "z": 20000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "references.html",
+        "id": "references",
+        "class": "step",
+        "data": {
+            "x": 0,
+            "y": 2000,
+            "z": 20000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    }
+]
