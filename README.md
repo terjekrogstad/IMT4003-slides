@@ -38,5 +38,5 @@ bower install
 Automated build procedure is provided with Grunt. Grunt will be installed when running the commands above.
 Automatic build and serve is initiated with the following command from one of the slider-folders:
 ```
-grunt serve
+grunt server
 ```
