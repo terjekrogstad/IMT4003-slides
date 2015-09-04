@@ -476,11 +476,25 @@
         }
     },
     {
+        "uri": "qa-in-agile-methods.html",
+        "id": "qa-in-agile-methods",
+        "class": "step",
+        "data": {
+            "x": 114000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
         "uri": "quality-reviews-in-agile-methods.html",
         "id": "quality-reviews-in-agile-methods",
         "class": "step",
         "data": {
-            "x": 114000,
+            "x": 117000,
             "y": 0,
             "z": 0,
             "scale": 1,
