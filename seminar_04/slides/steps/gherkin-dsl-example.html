@@ -1,0 +1,24 @@
+<h2>Gherkin DSL example</h2>
+<p><a href="http://docs.behat.org/en/v2.5/" target="_blank">Behat and Mink</a>: BDD framework for PHP<br>Typically a BDD framework has a <a href="http://docs.behat.org/en/v2.5/guides/1.gherkin.html" target="_blank">Gherkin interpreter</a></p>
+
+<pre>
+  <code class="gherkin">
+    # features/search.feature
+    Feature: Search
+      In order to see a word definition
+      As a website user
+      I need to be able to search for a word
+
+      Scenario: Searching for a page that does exist
+        Given I am on "/wiki/Main_Page"
+        When I fill in "search" with "Behavior Driven Development"
+        And I press "searchButton"
+        Then I should see "agile software development"
+  </code>
+  
+</pre>
+
+<div class="notes">Press the P
+key to access the notes console.
+</div>
+

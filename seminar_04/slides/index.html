@@ -14,6 +14,8 @@
     <link href="css/impressConsole.css" rel="stylesheet" />
     <link href="css/main.css" rel="stylesheet" />
 
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.9.1/styles/default.min.css">
+
 
     <link rel="shortcut icon" href="favicon.png" />
     <link rel="apple-touch-icon" href="apple-touch-icon.png" />
@@ -30,10 +32,12 @@
   <script src="bower_components/impress.js/js/impress.js"></script>
   <script src="js/impressConsole.js"></script>
   <script src="js/main.js"></script>
+  
 
   <script id="step-template" type="x-handlebars-template">
     <div id="{{id}}" class="{{class}}"{{#step data}}{{uri}}{{/step}}>{{{file}}}</div>
   </script> 
+  <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.9.1/highlight.min.js"></script>
 
   <script>
   // First, get sorted slide list
@@ -43,7 +47,9 @@
     appendSlides(data);
     impress().init();
     impressConsole().init();
+    hljs.initHighlightingOnLoad();
   });
+  
   </script>
 
 

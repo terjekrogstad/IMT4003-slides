@@ -392,6 +392,34 @@
         }
     },
     {
+        "uri": "bdd-and-gherkin-dsl.html",
+        "id": "bdd-and-gherkin-dsl",
+        "class": "step",
+        "data": {
+            "x": 24000,
+            "y": 2000,
+            "z": 6000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 45,
+            "rotate-z": 180
+        }
+    },
+    {
+        "uri": "gherkin-dsl-example.html",
+        "id": "gherkin-dsl-example",
+        "class": "step",
+        "data": {
+            "x": 24000,
+            "y": 2000,
+            "z": 8000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 45,
+            "rotate-z": 180
+        }
+    },
+    {
         "uri": "document-late.html",
         "id": "document-late",
         "class": "step",
